@@ -4,9 +4,9 @@
 
 ## Tanım
 
-Bu repo'da, Türkiye'de Koronavirüs'ün (yani Covid-19'un) ilk kez **11 Mart 2020** tarihinde görülmesinden itibaren sayıların düzenli olarak tutulduğu veri setleri ve üzerinde veri analizlerini içermektedir.
+Bu repo'da, Türkiye'de Koronavirüs'ün (yani Covid-19'un) ilk kez **11 Mart 2020** tarihinde görülmesinden itibaren sayıların düzenli olarak tutulduğu veri setleri ve üzerinde veri analizlerini içeriyor.
 
-Sonraki günlerde gelecek verilerle beraber haftada bir ya da iki kez veri analizini güncel tutulması amaçlanmaktadır.
+Sonraki günlerde gelecek verilerle beraber haftada bir ya da iki kez veri analizini güncel tutmayı amaçlıyorum.
 
 **Tüm bu analizler IPython Shell ile yapılmıştır.**
 
@@ -18,4 +18,4 @@ Ayrıca index işlevi gören `Tarih` sütunu da mevcuttur.
 
 ## Kaynak
 
-Günlere ait tüm bu sayısal veriler T. C. Sağlık Bakanlığı ve Sağlık Bakanı Fahrettin Koca'nın Twitter'da yayımladığı **Türkiye Günlük Koronavirüs Tablosu**'ndan alınmaktadır.
+Günlere ait tüm bu sayısal veriler T. C. Sağlık Bakanlığı ve Sağlık Bakanı Dr. Fahrettin Koca'nın Twitter'da yayımladığı **Türkiye Günlük Koronavirüs Tablosu**'ndan alınmaktadır.

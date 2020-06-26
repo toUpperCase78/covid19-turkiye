@@ -8,7 +8,7 @@ Bu repo, Türkiye'de Koronavirüs'ün (yani Covid-19'un) ilk kez **11 Mart 2020*
 
 Sonraki günlerde gelecek verilerle beraber haftada bir ya da iki kez veri analizini güncel tutmayı amaçlıyorum.
 
-Son güncelleme: **19 Haziran 2020**
+Son güncelleme: **26 Haziran 2020**
 
 **Tüm bu analizler IPython Shell ile yapılmıştır.**
 

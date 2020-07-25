@@ -4,25 +4,25 @@
 
 ## Tanım
 
-Bu repo, Türkiye'de Koronavirüs'ün (yani Covid-19'un) ilk kez **11 Mart 2020** tarihinde görülmesinden itibaren sayıların düzenli olarak tutulduğu veri setleri ve üzerinde veri analizlerini içeriyor.
+Türkiye'de Koronavirüs'ün (yani Covid-19'un) ilk kez **11 Mart 2020** tarihinde görülmesinden itibaren sayıların düzenli olarak tutulduğu veri setleri ve üzerinde veri analizlerini içeren repo'dur.
 
-Sonraki günlerde gelecek verilerle beraber haftada bir ya da iki kez veri analizini güncel tutmayı amaçlıyorum.
+Sonraki günlere ait verilerin mevcut olmasıyla beraber haftada bir ya da iki kez veri analizinin güncellenmesi amaçlanmaktdır.
 
-Son güncelleme: **12 Temmuz 2020**
+Son güncelleme: **22 Temmuz 2020**
 
 **Tüm bu analizler IPython Shell kullanılarak yapılmıştır.**
 
-## Özellikler
+## Sütunlar
 
-Veri setinde sayıları bulunduran 6 farklı özellik bulunmaktadır: `Toplam Vaka`, `Toplam Vefat`, `Toplam İyileşen`, `Toplam Test`, `Toplam Yoğun Bakım`, `Toplam Entübe`
+Veri setinde sayıları bulunduran 6 farklı sütun bulunmaktadır: `Toplam Vaka`, `Toplam Vefat`, `Toplam İyileşen`, `Toplam Test`, `Toplam Yoğun Bakım`, `Toplam Entübe`
 
 Ayrıca index işlevi gören `Tarih` sütunu da mevcuttur.
 
-Analiz içerisinde oluşturulan ilave özellikler şunlardır: `Vaka Artış`, `Vefat Artış`, `İyileşen Artış`, `Test Artış`, `Vaka +/-`, `Vefat +/-`, `İyileşen +/-`
+Analiz içerisinde oluşturulan ilave sütunlar şunlardır: `Vaka Artış`, `Vefat Artış`, `İyileşen Artış`, `Test Artış`, `Vaka +/-`, `Vefat +/-`, `İyileşen +/-`
 
 ## Analizler
 
-Son yayımladığım dosyalarda şu analizler bulunmaktadır:
+Son yayımlanan analizde şunlar bulunmaktadır:
 * Son 10 Güne Dair Sayısal Bilgiler
 * Tüm Günler Türkiye'nin Durumu
 * Son 2 Haftaya Dair Vaka Sayısı Grafiği

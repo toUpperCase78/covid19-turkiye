@@ -8,13 +8,15 @@ Türkiye'de Koronavirüs'ün (yani Covid-19'un) ilk kez **11 Mart 2020** tarihin
 
 Sonraki günlere ait verilerin mevcut olmasıyla beraber haftada bir ya da iki kez veri analizinin güncellenmesi amaçlanmaktdır.
 
-Son güncelleme: **22 Temmuz 2020**
+Son güncelleme: **2 Ağustos 2020**
 
 **Tüm bu analizler IPython Shell kullanılarak yapılmıştır.**
 
 ## Sütunlar
 
 Veri setinde sayıları bulunduran 6 farklı sütun bulunmaktadır: `Toplam Vaka`, `Toplam Vefat`, `Toplam İyileşen`, `Toplam Test`, `Toplam Yoğun Bakım`, `Toplam Entübe`
+
+29 Temmuz'dan sonra yeni verilerin paylaşılmasıyla birlikte 2 yeni sütun daha eklenmiştir: `Zatürre Oranı (%)` ve `Ağır Hasta`
 
 Ayrıca index işlevi gören `Tarih` sütunu da mevcuttur.
 
@@ -23,7 +25,7 @@ Analiz içerisinde oluşturulan ilave sütunlar şunlardır: `Vaka Artış`, `Ve
 ## Analizler
 
 Son yayımlanan analizde şunlar bulunmaktadır:
-* Son 10 Güne Dair Sayısal Bilgiler
+* Son 14 Güne Dair Sayısal Bilgiler
 * Tüm Günler Türkiye'nin Durumu
 * Son 2 Haftaya Dair Vaka Sayısı Grafiği
 * Son 2 Haftaya Dair Vefat Sayısı Grafiği
@@ -40,8 +42,8 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 * Son 2 Haftadaki Vefat Sayısı Değişimi Grafiği
 * Son 2 Haftadaki İyileşen Sayısı Değişim Grafiği
 * Son 2 Haftadaki Toplam Aktif Vaka Sayıları
-* Toplam Yoğun Bakım ve Entübe Hasta Sayılarına Dair İstatistikler
-* Son 2 Haftadaki Toplam Yoğun Bakım & Entübe Hasta Sayıları
+* Açıklanan Günerdeki Toplam Yoğun Bakım ve Entübe Hasta Sayılarına Dair İstatistikler
+* 1-28 Temmuz Tarihlerinde Toplam Yoğun Bakım & Entübe Hasta Sayıları
 * Vaka, Vefat, İyileşen & Test Artışlarının Haftalık Toplamları
 * Aynı Sütunların ve Değişimilerinin Haftalık Ortalamaları
 

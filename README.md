@@ -6,9 +6,9 @@
 
 Türkiye'de Koronavirüs'ün (yani Covid-19'un) ilk kez **11 Mart 2020** tarihinde görülmesinden itibaren sayıların düzenli olarak tutulduğu veri setleri ve üzerinde veri analizlerini içeren repo'dur.
 
-Sonraki günlere ait verilerin mevcut olmasıyla beraber haftada bir ya da iki kez veri analizinin güncellenmesi amaçlanmaktdır.
+Sonraki günlere ait verilerin mevcut olmasıyla beraber haftada bir ya da on günlük aralıklarla veri analizinin güncellenmesi amaçlanmaktdır.
 
-Son güncelleme: **2 Ağustos 2020**
+Son güncelleme: **12 Ağustos 2020**
 
 **Tüm bu analizler IPython Shell kullanılarak yapılmıştır.**
 
@@ -16,7 +16,7 @@ Son güncelleme: **2 Ağustos 2020**
 
 Veri setinde sayıları bulunduran 6 farklı sütun bulunmaktadır: `Toplam Vaka`, `Toplam Vefat`, `Toplam İyileşen`, `Toplam Test`, `Toplam Yoğun Bakım`, `Toplam Entübe`
 
-29 Temmuz'dan sonra yeni verilerin paylaşılmasıyla birlikte 2 yeni sütun daha eklenmiştir: `Zatürre Oranı (%)` ve `Ağır Hasta`
+29 Temmuz'dan sonra yeni verilerin paylaşılmasıyla birlikte 2 yeni sütun daha eklenmiştir: `Hastalarda Zatürre Oranı (%)` ve `Ağır Hasta`
 
 Ayrıca index işlevi gören `Tarih` sütunu da mevcuttur.
 
@@ -31,7 +31,7 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 * Son 2 Haftaya Dair Vefat Sayısı Grafiği
 * Son 2 Haftaya Dair İyileşen Hasta Sayısı Grafiği
 * Vaka, Vefat, İyileşen & Test Artışlarına Dair İstatistikler
-* Tüm Günler - Vaka, Vefat & İyileşen Artış Sayıları + Sonraki 14 Güne Ait Tahminler
+* Tüm Günler - Vaka, Vefat & İyileşen Artış Sayıları + Sonraki 28 Güne Ait Tahminler
 * Son 2 Hafta İçindeki Vaka Sayısı Artışları
 * Son 2 Hafta İçindeki Vefat Sayısı Artışları
 * Son 2 Hafta İçindeki İyileşen Hasta Sayısı Artışları
@@ -42,8 +42,9 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 * Son 2 Haftadaki Vefat Sayısı Değişimi Grafiği
 * Son 2 Haftadaki İyileşen Sayısı Değişim Grafiği
 * Son 2 Haftadaki Toplam Aktif Vaka Sayıları
-* Açıklanan Günerdeki Toplam Yoğun Bakım ve Entübe Hasta Sayılarına Dair İstatistikler
+* 27 Mart-28 Temmuz Tarihleri Arasında Toplam Yoğun Bakım ve Entübe Hasta Sayılarına Dair İstatistikler
 * 1-28 Temmuz Tarihlerinde Toplam Yoğun Bakım & Entübe Hasta Sayıları
+* 29 Temmuz ve Sonrasında Hastalarda Zatürre Oranı ve Ağır Hasta Sayıları Grafiği
 * Vaka, Vefat, İyileşen & Test Artışlarının Haftalık Toplamları
 * Aynı Sütunların ve Değişimilerinin Haftalık Ortalamaları
 

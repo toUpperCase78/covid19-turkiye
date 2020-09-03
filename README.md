@@ -8,7 +8,7 @@ Türkiye'de Koronavirüs'ün (yani Covid-19'un) ilk kez **11 Mart 2020** tarihin
 
 Sonraki günlere ait verilerin mevcut olmasıyla beraber haftada bir ya da on günlük aralıklarla veri analizinin güncellenmesi amaçlanmaktdır.
 
-Son güncelleme: **23 Ağustos 2020**
+Son güncelleme: **3 Eylül 2020**
 
 **Tüm bu analizler IPython Shell kullanılarak yapılmıştır.**
 

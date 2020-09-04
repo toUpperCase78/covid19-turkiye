@@ -12,6 +12,8 @@ Son güncelleme: **3 Eylül 2020**
 
 **Tüm bu analizler IPython Shell kullanılarak yapılmıştır.**
 
+**UYARI!:** 12 Temmuz - 23 Ağustos tarihleri arasında yayımlanan analizler Macintosh bilgisayar üzerinde yapılmasından dolayı hiçbir şekilde açılamamaktadır! İlerleyen günlerde düzeltmeler için çalışmalar yapılacaktır.
+
 ## Sütunlar
 
 Veri setinde sayıları bulunduran 6 farklı sütun bulunmaktadır: `Toplam Vaka`, `Toplam Vefat`, `Toplam İyileşen`, `Toplam Test`, `Toplam Yoğun Bakım`, `Toplam Entübe`

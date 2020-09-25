@@ -8,7 +8,7 @@ Türkiye'de Koronavirüs'ün (yani Covid-19'un) ilk kez **11 Mart 2020** tarihin
 
 Sonraki günlere ait verilerin mevcut olmasıyla beraber haftada bir ya da on günlük aralıklarla veri analizinin güncellenmesi amaçlanmaktdır.
 
-Son güncelleme: **13 Eylül 2020**
+Son güncelleme: **25 Eylül 2020**
 
 **Tüm bu analizler IPython Shell kullanılarak yapılmıştır.**
 
@@ -37,7 +37,7 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 * Son 2 Hafta İçindeki İyileşen Hasta Sayısı Artışları
 * Son 2 Hafta İçindeki Günlük İyileşen Sayısının Vaka Sayısına Oranı
 * Tüm Günler Vaka/Vefat/İyileşen Sayılarının Birbirleriyle İlişkileri ve Katsayıları
-* Her Gün Vaka, Vefat & İyileşen Sayısı Değişimine Dair İstatistikler
+* Her Günün Vaka, Vefat & İyileşen Sayısı Değişimine Dair İstatistikler
 * Son 2 Haftadaki Vaka Sayısı Değişim Grafiği
 * Son 2 Haftadaki Vefat Sayısı Değişimi Grafiği
 * Son 2 Haftadaki İyileşen Sayısı Değişim Grafiği
@@ -50,6 +50,6 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 
 ## Kaynak
 
-Günlere ait tüm bu sayısal veriler T. C. Sağlık Bakanlığı ve Sağlık Bakanı Dr. Fahrettin Koca'nın Twitter'da yayımladığı **Türkiye Günlük Koronavirüs Tablosu**'ndan alınmaktadır.
+Günlere ait tüm bu sayısal veriler T. C. Sağlık Bakanlığı [Covid-19 Bilgilendirme Sayfası](https://covid19.saglik.gov.tr/) **Türkiye Günlük Koronavirüs Tablosu**'ndan alınmaktadır.
 
 ### Virüsü tamamen yendiğimiz günlerde buluşmak dileğiyle...

@@ -10,7 +10,7 @@ On gün ya da iki haftalık aralıklarla yeni veri analizinin uygulanması amaç
 
 Son güncelleme: **12 Ekim 2020**
 
-**Tüm bu analizler IPython dosyları üzerinde yapılmıştır.**
+**Tüm bu analizler IPython üzerinde yapılmıştır.**
 
 ## Sütunlar
 
@@ -48,6 +48,6 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 
 ## Kaynak
 
-Günlere ait tüm bu sayısal veriler T. C. Sağlık Bakanlığı [Covid-19 Bilgilendirme Sayfası](https://covid19.saglik.gov.tr/) **Türkiye Günlük Koronavirüs Tablosu**'ndan alınmaktadır.
+Günlere ait tüm bu sayısal veriler T. C. Sağlık Bakanlığı [Covid-19 Bilgilendirme Sayfası](https://covid19.saglik.gov.tr/) **Türkiye COVID-19 Hasta Tablosu**'ndan alınmaktadır.
 
 ### Virüsü tamamen yendiğimiz günlerde buluşmak dileğiyle...

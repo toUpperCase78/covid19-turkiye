@@ -23,7 +23,7 @@ Analiz içerisinde oluşturulan ilave sütunlar şunlardır: `Hasta Artış`, `V
 ## Analizler
 
 Son yayımlanan analizde şunlar bulunmaktadır:
-* Son 20 Güne Dair Sayısal Bilgiler
+* Son 2 Haftaya Dair Sayısal Bilgiler
 * Tüm Günler Türkiye'nin Durumu
 * Son 2 Haftaya Dair Hasta Sayısı Grafiği
 * Son 2 Haftaya Dair Vefat Sayısı Grafiği

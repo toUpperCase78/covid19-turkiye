@@ -4,11 +4,11 @@
 
 ## Tanım
 
-Türkiye'de Koronavirüs'ün (yani Covid-19'un) ilk kez **11 Mart 2020** tarihinde görülmesinden itibaren sayıların düzenli olarak tutulduğu veri setleri ve üzerinde veri analizlerini içeren repo'dur.
+Türkiye'de Koronavirüs'ün (Covid-19) ilk kez **11 Mart 2020** tarihinde görülmesinden itibaren sayıların düzenli olarak tutulduğu veri setleri ve üzerinde veri analizlerini içeren repo'dur.
 
 On gün ya da iki haftalık aralıklarla yeni veri analizinin uygulanması amaçlanmaktadır.
 
-Son güncelleme: **12 Ekim 2020**
+Son güncelleme: **14 Kasım 2020** **/** Sayı: **24**
 
 **Tüm bu analizler IPython üzerinde yapılmıştır.**
 
@@ -39,7 +39,7 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 * Son 2 Haftadaki Hasta Sayısı Değişim Grafiği
 * Son 2 Haftadaki Vefat Sayısı Değişimi Grafiği
 * Son 2 Haftadaki İyileşen Sayısı Değişim Grafiği
-* Son 2 Haftadaki Toplam Aktif Vaka Sayıları
+* Son 2 Haftadaki Toplam Aktif Hasta Sayıları
 * 27 Mart-28 Temmuz Tarihleri Arasında Toplam Yoğun Bakım ve Entübe Hasta Sayılarına Dair İstatistikler
 * 1-28 Temmuz Tarihlerinde Toplam Yoğun Bakım & Entübe Hasta Sayıları
 * Son 4 Hafta için Hastalarda Zatürre Oranı ve Ağır Hasta Sayıları Grafiği

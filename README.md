@@ -8,7 +8,7 @@ Türkiye'de Koronavirüs'ün (Covid-19) ilk kez **11 Mart 2020** tarihinde gör�
 
 On gün ya da iki haftalık aralıklarla yeni veri analizinin uygulanması amaçlanmaktadır.
 
-Son güncelleme: **23 Aralık 2020** **/** Sayı: **27**
+Son güncelleme: **13 Ocak 2021** **/** Sayı: **28**
 
 **Tüm bu analizler IPython üzerinde yapılmıştır.**
 
@@ -32,13 +32,13 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 * Son 20 Güne Dair Hasta Sayısı Grafiği
 * Son 20 Güne Dair Vaka Sayısı Grafiği
 * Son 20 Güne Dair Vefat Sayısı Grafiği
-* Son 20 Güne Dair İyileşen Hasta Sayısı Grafiği
+* Son 20 Güne Dair İyileşen Sayısı Grafiği
 * Son Günlere Dair Hasta, Vaka, Vefat, İyileşen & Test Artışları İstatistikleri ve Dağılımları
-* Tüm Günler - Hasta, Vefat & İyileşen Artış Sayıları + Sonraki Günlere Ait Tahminler
+* Tüm Günler - Hasta, Vaka, Vefat & İyileşen Artış Sayıları + Sonraki Günlere Ait Tahminler
 * Son 20 Gün İçindeki Hasta Sayısı Artışları
 * Son 20 Gün İçindeki Günlük Vaka Sayısı
 * Son 20 Gün İçindeki Vefat Sayısı Artışları
-* Son 20 Gün İçindeki İyileşen Hasta Sayısı Artışları
+* Son 20 Gün İçindeki Hasta Sayısı Artışları
 * Son 20 Gün İçindeki Günlük İyileşen Sayısının Vaka Sayısına Oranı
 * Tüm Günler Hasta/Vefat/İyileşen/Günlük Vaka Sayılarının Birbirleriyle İlişkileri ve Katsayıları
 * Son Günlere Dair Hasta, Vaka, Vefat & İyileşen Sayısı Değişimine Dair İstatistikler
@@ -46,10 +46,10 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 * Sün 20 Günün Vaka Sayısı Değişim Grafiği
 * Son 20 Günün Vefat Sayısı Değişim Grafiği
 * Son 20 Günün İyileşen Sayısı Değişim Grafiği
-* Toplam Aktif Hasta Sayıları (12 Aralık ve Sonrası)
+* Toplam Aktif Vaka Sayıları (Son 20 Gün)
 * Son 4 Hafta için Hastalarda Zatürre Oranı ve Ağır Hasta Sayıları
-* Hasta, Vefat, İyileşen, Test ve Vaka Artışlarının İkişer Haftalık Toplamları
-* Aynı Sütunların ve Değişimilerinin İkişer Haftalık Ortalamaları
+* Hasta, Vefat, İyileşen, Test ve Vaka Artışlarının Aylık Toplamları
+* Aynı Sütunların ve Değişimilerinin Aylık Ortalamaları
 
 **ÖNEMLİ:** İlgili IPython sayfası yüklenirken hata ile karşılaşıyorsanız, bir ya da birkaç kere **Reload** seçeneğine basmanız gerekebilir.
 

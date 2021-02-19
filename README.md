@@ -6,9 +6,9 @@
 
 Türkiye'de Koronavirüs'ün (Covid-19) ilk kez **11 Mart 2020** tarihinde görülmesinden itibaren sayıların düzenli olarak tutulduğu veri setleri ve üzerinde veri analizlerini içeren repo'dur.
 
-On gün ya da iki haftalık aralıklarla yeni veri analizinin uygulanması amaçlanmaktadır.
+Genellikle iki haftalık aralıklarla yeni veri analizlerinin uygulanması amaçlanmaktadır.
 
-Son güncelleme: **29 Ocak 2021** **/** Sayı: **29**
+Son güncelleme: **18 Şubat 2021** **/** Sayı: **30**
 
 **Tüm bu analizler IPython üzerinde yapılmıştır.**
 
@@ -53,4 +53,4 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 
 **ÖNEMLİ:** İlgili IPython sayfası yüklenirken hata ile karşılaşıyorsanız, bir ya da birkaç kere **Reload** seçeneğine basmanız gerekebilir.
 
-### VİRÜSÜ TAMAMEN YENDİĞİMİZ GÜNLERDE BULUŞMAK DİLEĞİYLE...
+### KORONAVİRÜSÜ TAMAMEN YENDİĞİMİZ GÜNLERDE BULUŞMAK DİLEĞİYLE...

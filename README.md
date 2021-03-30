@@ -6,9 +6,9 @@
 
 Türkiye'de Koronavirüs'ün (Covid-19) ilk kez **11 Mart 2020** tarihinde görülmesinden itibaren sayıların düzenli olarak tutulduğu veri setleri ve üzerinde veri analizlerini içeren repo'dur.
 
-Genellikle iki haftalık aralıklarla yeni veri analizlerinin uygulanması amaçlanmaktadır.
+Genelde iki haftalık aralıklarla yeni veri analizlerinin uygulanması amaçlanmaktadır.
 
-Son güncelleme: **11 Mart 2021** **/** Sayı: **31**
+Son güncelleme: **27 Mart 2021** **/** Sayı: **32**
 
 **Tüm bu analizler IPython üzerinde yapılmıştır.**
 
@@ -18,7 +18,7 @@ Günlere ait tüm bu sayısal veriler T. C. Sağlık Bakanlığı [Covid-19 Bilg
 
 ## Sütunlar
 
-Veri setinin son şeklinde toplamda 8 farklı sütun bulunmaktadır: `Toplam Hasta`, `Toplam Vefat`, `Toplam İyileşen`, `Toplam Test`, `Toplam Yoğun Bakım`, `Toplam Entübe`, `Zatürre Oranı (%)`, `Ağır Hasta`, `Günlük Vaka` ve `Toplam Vaka`
+Veri setinin son şeklinde toplamda 10 farklı sütun bulunmaktadır: `Toplam Hasta`, `Toplam Vefat`, `Toplam İyileşen`, `Toplam Test`, `Toplam Yoğun Bakım`, `Toplam Entübe`, `Zatürre Oranı (%)`, `Ağır Hasta`, `Günlük Vaka` ve `Toplam Vaka`
 
 Ayrıca index işlevi gören `Tarih` sütunu da mevcuttur.
 
@@ -50,6 +50,8 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 * Son 4 Hafta için Hastalarda Zatürre Oranı ve Ağır Hasta Sayıları
 * Hasta, Vefat, İyileşen, Test ve Vaka Artışlarının Aylık Toplamları
 * Aynı Sütunların ve Değişimilerinin Aylık Ortalamaları
+
+Ayrıca, Türkiye'de **illere göre haftalık vaka sayıları**nı gösteren bir veri seti daha vardır. İlerleyen zamanlarda bununla ilgili analizler de yapılacaktır.
 
 **ÖNEMLİ:** İlgili IPython sayfası yüklenirken hata ile karşılaşıyorsanız, bir ya da birkaç kere **Reload** seçeneğine basmanız gerekebilir.
 

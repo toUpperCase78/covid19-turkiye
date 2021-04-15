@@ -8,7 +8,7 @@ Türkiye'de Koronavirüs'ün (Covid-19) ilk kez **11 Mart 2020** tarihinde gör�
 
 Genelde iki haftalık aralıklarla yeni veri analizlerinin uygulanması amaçlanmaktadır.
 
-Son güncelleme: **27 Mart 2021** **/** Sayı: **32**
+Son güncelleme: **15 Nisan 2021** **/** Sayı: **33**
 
 **Tüm bu analizler IPython üzerinde yapılmıştır.**
 

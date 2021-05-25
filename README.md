@@ -8,7 +8,7 @@ Türkiye'de Koronavirüs'ün (Covid-19) ilk kez **11 Mart 2020** tarihinde gör�
 
 Genelde ayda iki defa yeni veri analizlerinin uygulanması amaçlanmaktadır.
 
-Son güncelleme: **7 Mayıs 2021** **/** Sayı: **34**
+Son güncelleme: **24 Mayıs 2021** **/** Sayı: **35**
 
 **Tüm bu analizler IPython üzerinde yapılmıştır.**
 
@@ -33,7 +33,7 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 * Son 20 Güne Dair Vaka Sayısı Grafiği
 * Son 20 Güne Dair Vefat Sayısı Grafiği
 * Son 20 Güne Dair İyileşen Sayısı Grafiği
-* Son Günlere Dair Hasta, Vaka, Vefat, İyileşen & Test Artışları İstatistikleri ve Dağılımları
+* Son 120 Güne Dair Hasta, Vaka, Vefat, İyileşen & Test Artışları İstatistikleri ve Dağılımları
 * Tüm Günler - Hasta, Vaka, Vefat & İyileşen Artış Sayıları + Sonraki Günlere Ait Tahminler
 * Son 20 Gün İçindeki Hasta Sayısı Artışları
 * Son 20 Gün İçindeki Günlük Vaka Sayısı
@@ -41,17 +41,17 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 * Son 20 Gün İçindeki Hasta Sayısı Artışları
 * Son 20 Gün İçindeki Günlük İyileşen Sayısının Vaka Sayısına Oranı
 * Tüm Günler Hasta/Vefat/İyileşen/Günlük Vaka Sayılarının Birbirleriyle İlişkileri ve Katsayıları
-* Son Günlere Dair Hasta, Vaka, Vefat & İyileşen Sayısı Değişimine Dair İstatistikler
+* Son 120 Güne Dair Hasta, Vaka, Vefat & İyileşen Sayısı Değişimine Dair İstatistikler
 * Son 20 Günün Hasta Sayısı Değişim Grafiği
 * Sün 20 Günün Vaka Sayısı Değişim Grafiği
 * Son 20 Günün Vefat Sayısı Değişim Grafiği
 * Son 20 Günün İyileşen Sayısı Değişim Grafiği
 * Toplam Aktif Vaka Sayıları (Son 20 Gün)
-* Son 4 Hafta için Hastalarda Zatürre Oranı ve Ağır Hasta Sayıları
+* Son 30 Gün için Hastalarda Zatürre Oranı ve Ağır Hasta Sayıları
 * Hasta, Vefat, İyileşen, Test ve Vaka Artışlarının Aylık Toplamları
 * Aynı Sütunların ve Değişimilerinin Aylık Ortalamaları
 
-Ayrıca, Türkiye'de **illere göre haftalık vaka sayıları**nı gösteren bir veri seti daha vardır. İlerleyen zamanlarda bununla ilgili analizler de yapılacaktır.
+Ayrıca, Türkiye'de **illere göre haftalık vaka sayıları**nı gösteren bir veri seti daha mevcuttur. İlerleyen zamanlarda bununla ilgili analizler de yapılacaktır.
 
 **ÖNEMLİ:** İlgili IPython sayfası yüklenirken hata ile karşılaşıyorsanız, bir ya da birkaç kere **Reload** seçeneğine basmanız gerekebilir.
 

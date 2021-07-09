@@ -8,7 +8,7 @@ Türkiye'de Koronavirüs'ün (Covid-19) ilk kez **11 Mart 2020** tarihinde gör�
 
 Genelde ayda iki defa yeni veri analizlerinin uygulanması amaçlanmaktadır.
 
-Son güncelleme: **24 Mayıs 2021** **/** Sayı: **35**
+Son güncelleme: **3 Temmuz 2021** **/** Sayı: **37**
 
 **Tüm bu analizler IPython üzerinde yapılmıştır.**
 
@@ -46,10 +46,14 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 * Sün 20 Günün Vaka Sayısı Değişim Grafiği
 * Son 20 Günün Vefat Sayısı Değişim Grafiği
 * Son 20 Günün İyileşen Sayısı Değişim Grafiği
-* Toplam Aktif Vaka Sayıları (Son 20 Gün)
+* Son 20 Günün Toplam Aktif Vaka Sayıları
 * Son 30 Gün için Hastalarda Zatürre Oranı ve Ağır Hasta Sayıları
 * Hasta, Vefat, İyileşen, Test ve Vaka Artışlarının Aylık Toplamları
 * Aynı Sütunların ve Değişimilerinin Aylık Ortalamaları
+
+4 Temmuz 2021'den itibaren gösterilen yeni Günlük Covid-19 Tablosu ile artık **Hasta Sayısı**, **Zatürre Oranı** ve **Ağır Hasta** verileri paylaşılmadığından birtakım analizler en son paylaşılan sayıdan sonra yer almayacaktır!
+
+Bunun yerine **18 Yaş Üstü Nüfus için 1. ve 2. Doz Türkiye Ortalaması (%)** ve **1., 2. ve 3. Doz Uygulanan** sayılarıyla ilgili yeni analizler gösterilecektir.
 
 Ayrıca, Türkiye'de **illere göre haftalık vaka sayıları**nı gösteren bir veri seti daha mevcuttur. İlerleyen zamanlarda bununla ilgili analizler de yapılacaktır.
 

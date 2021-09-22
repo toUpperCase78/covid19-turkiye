@@ -8,7 +8,7 @@ Türkiye'de Koronavirüs'ün (Covid-19) ilk kez **11 Mart 2020** tarihinde gör�
 
 Genelde ayda iki defa olmak üzere yeni veri analizlerinin uygulanması amaçlanmaktadır.
 
-Son güncelleme: **23 Ağustos 2021** **/** Sayı: **39**
+Son güncelleme: **21 Eylül 2021** **/** Sayı: **40**
 
 **Tüm analizler IPython üzerinde yapılmıştır.**
 
@@ -28,29 +28,31 @@ Analiz içerisinde oluşturulan ilave sütunlar: `Vefat Artış`, `İyileşen Ar
 
 Son yayımlanan analizde şunlar bulunmaktadır:
 * Son 20 Güne Dair Sayısal Bilgiler
-* Covid-19 - Türkiye'nin Durumu
+* Covid-19 Salgınının Başında Beri Türkiye'nin Durumu
 * Covid-19 - Türkiye'de Aşılamanın Durumu
-* Son 20 Güne Dair Vaka Sayısı Grafiği
-* Son 20 Güne Dair Vefat Sayısı Grafiği
-* Son 20 Güne Dair İyileşen Sayısı Grafiği
-* Son 180 Güne Dair Vaka, Vefat, İyileşen & Test Artışları İstatistikleri ve Dağılımları
-* Tüm Günler - Vaka, Vefat & İyileşen Artış Sayıları + Sonraki Günlere Ait Tahminler
-* Son 20 Gün İçindeki Günlük Vaka Sayısı
-* Son 20 Gün İçindeki Vefat Sayısı Artışları
-* Son 20 Gün İçindeki Hasta Sayısı Artışları
-* Son 20 Gün İçindeki Günlük İyileşen Sayısının Vaka Sayısına Oranı
-* 25 Kasım 2020 ve Sonrası Günlük Vaka, Vefat ve İyileşen Sayılarının Birbirleriyle İlişkileri ve Katsayıları
-* Son 180 Güne Dair Vaka, Vefat & İyileşen Sayısı Değişimine Dair İstatistikler
-* Sün 20 Günün Vaka Sayısı Değişim Grafiği
+* Covid-19 - Tüm Günler Vaka, Vefat & İyileşen Artış Sayıları & Gelecek İçin Tahminler
+* Son 20 Gün İçindeki Günlük Vaka Sayıları
+* Son 20 Güne Dair Toplam Vaka Sayıları
+* Son 20 Günün Vaka Sayısı Değişim Grafiği
+* Son 20 Gün İçindeki Günlük Vefat Sayıları
+* Son 20 Güne Dair Toplam Vefat Sayıları
 * Son 20 Günün Vefat Sayısı Değişim Grafiği
-* Son 20 Günün İyileşen Sayısı Değişim Grafiği
+* Son 20 Gün İçindeki Günlük İyileşen Sayıları
+* Son 20 Güne Dair Toplam İyileşen Sayıları
+* Son 20 Günün İyileşen Sayısı Değişim Grafiği 
+* Son 20 Gün İçindeki Günlük İyileşen Sayısının Vaka Sayısına Oranı
 * Son 20 Günün Toplam Aktif Vaka Sayıları
-* Hasta, Vefat, İyileşen, Test ve Vaka Artışlarının Aylık Toplamları
-* Aynı Sütunların ve Değişimilerinin Aylık Ortalamaları
+* Son 180 Güne Dair Günlük Test, Vaka, Vefat & İyileşen Sayılarının İstatistikleri ve Dağılımları
+* Son 180 Güne Dair Vaka, Vefat & İyileşen Sayısı Değişimi Dair İstatistikleri ve Dağılımları
+* 25 Kasım 2020 Sonrası Günlük Vaka, Vefat ve İyileşen Sayılarının Birbirleriyle İlişkileri ve Katsayıları
+* Test, Vaka, Vefat ve İyileşen Artışlarının Aylık Toplamları
+* Aynı Sütunların ve Değişimlerinin Aylık Ortalamaları
 
 4 Temmuz 2021'den itibaren gösterilen yeni Günlük Covid-19 Tablosu ile artık **Hasta Sayısı**, **Zatürre Oranı** ve **Ağır Hasta** verileri paylaşılmadığından birtakım analizler en son paylaşılan analizlerden sonra yer almamaktadır!
 
-Bunun yerine **18 Yaş Üstü Nüfus için 1. ve 2. Doz Türkiye Ortalaması (%)** ve **1., 2. ve 3. Doz Uygulanan** sayılarıyla ilgili yeni analizler gösterilecektir.
+Bunun yerine **18 Yaş Üstü Nüfus için 1. ve 2. Doz Türkiye Ortalaması (%)** ve **1., 2. ve 3. Doz Uygulanan** sayılarıyla ilgili yeni analizler gösterilmektedir.
+
+**Son bir yıl içinde** yapılan analizler burada gösterilmektedir. Üzerinden bir yıldan fazla süre geçen analizler ise silinmektedir.
 
 Ayrıca, Türkiye'de **illere göre haftalık vaka sayıları**nı gösteren bir veri seti daha mevcuttur. İlerleyen zamanlarda bununla ilgili analizler de yapılacaktır.
 

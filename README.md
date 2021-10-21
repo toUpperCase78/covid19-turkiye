@@ -8,7 +8,7 @@ Türkiye'de Koronavirüs'ün (Covid-19) ilk kez **11 Mart 2020** tarihinde gör�
 
 Genelde ayda iki defa olmak üzere yeni veri analizlerinin uygulanması amaçlanmaktadır.
 
-Son güncelleme: **21 Eylül 2021** **/** Sayı: **40**
+Son güncelleme: **18 Ekim 2021** **/** Sayı: **41**
 
 **Tüm analizler IPython üzerinde yapılmıştır.**
 
@@ -30,6 +30,7 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 * Son 20 Güne Dair Sayısal Bilgiler
 * Covid-19 Salgınının Başında Beri Türkiye'nin Durumu
 * Covid-19 - Türkiye'de Aşılamanın Durumu
+* Covid-19 - Türkiye'de Son 20 Güne Ait Aşılama Grafiği
 * Covid-19 - Tüm Günler Vaka, Vefat & İyileşen Artış Sayıları & Gelecek İçin Tahminler
 * Son 20 Gün İçindeki Günlük Vaka Sayıları
 * Son 20 Güne Dair Toplam Vaka Sayıları

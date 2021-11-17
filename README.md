@@ -8,7 +8,7 @@ Türkiye'de Koronavirüs'ün (Covid-19) ilk kez **11 Mart 2020** tarihinde gör�
 
 Genelde ayda iki defa olmak üzere yeni veri analizlerinin uygulanması amaçlanmaktadır.
 
-Son güncelleme: **18 Ekim 2021** **/** Sayı: **41**
+Son güncelleme: **16 Kasım 2021** **/** Sayı: **42**
 
 **Tüm analizler IPython üzerinde yapılmıştır.**
 
@@ -51,7 +51,7 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 
 4 Temmuz 2021'den itibaren gösterilen yeni Günlük Covid-19 Tablosu ile artık **Hasta Sayısı**, **Zatürre Oranı** ve **Ağır Hasta** verileri paylaşılmadığından birtakım analizler en son paylaşılan analizlerden sonra yer almamaktadır!
 
-Bunun yerine **18 Yaş Üstü Nüfus için 1. ve 2. Doz Türkiye Ortalaması (%)** ve **1., 2. ve 3. Doz Uygulanan** sayılarıyla ilgili yeni analizler gösterilmektedir.
+Bunun yerine **18 Yaş Üstü Nüfus için 1. ve 2. Doz Türkiye Ortalaması (%)** ve **1., 2. ve 3. Doz Uygulanan** sayılarıyla ilgili analizler gösterilmektedir.
 
 **Son bir yıl içinde** yapılan analizler burada gösterilmektedir. Üzerinden bir yıldan fazla süre geçen analizler ise silinmektedir.
 

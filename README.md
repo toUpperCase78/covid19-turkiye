@@ -6,9 +6,11 @@
 
 Türkiye'de Koronavirüs'ün (Covid-19) ilk kez **11 Mart 2020** tarihinde görülmesinden itibaren sayıların düzenli olarak tutulduğu veri setleri ve üzerinde veri analizlerini içeren repo'dur.
 
-Genelde ayda iki defa olmak üzere yeni veri analizlerinin uygulanması amaçlanmaktadır.
+Ayda bir defa bazen de iki defa olmak üzere yeni veri analizlerinin uygulanması amaçlanmaktadır.
 
-Son güncelleme: **16 Kasım 2021** **/** Sayı: **42**
+Burada yapılan analizler hiçbir şekilde bir kuruma bağlı olmayıp, tamamen bireysel ve bağımsız şekilde gerçekleşmektedir.
+
+Son güncelleme: **24 Aralık 2021** **/** Sayı: **43**
 
 **Tüm analizler IPython üzerinde yapılmıştır.**
 
@@ -48,14 +50,15 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 * 25 Kasım 2020 Sonrası Günlük Vaka, Vefat ve İyileşen Sayılarının Birbirleriyle İlişkileri ve Katsayıları
 * Test, Vaka, Vefat ve İyileşen Artışlarının Aylık Toplamları
 * Aynı Sütunların ve Değişimlerinin Aylık Ortalamaları
+* Son Yorumlar
 
 4 Temmuz 2021'den itibaren gösterilen yeni Günlük Covid-19 Tablosu ile artık **Hasta Sayısı**, **Zatürre Oranı** ve **Ağır Hasta** verileri paylaşılmadığından birtakım analizler en son paylaşılan analizlerden sonra yer almamaktadır!
 
 Bunun yerine **18 Yaş Üstü Nüfus için 1. ve 2. Doz Türkiye Ortalaması (%)** ve **1., 2. ve 3. Doz Uygulanan** sayılarıyla ilgili analizler gösterilmektedir.
 
-**Son bir yıl içinde** yapılan analizler burada gösterilmektedir. Üzerinden bir yıldan fazla süre geçen analizler ise silinmektedir.
+**Son bir yıl içinde** yapılan analizler burada gösterilmektedir. Üzerinden bir yıldan fazla süre geçen analizler ise zamanla silinmektedir.
 
-Ayrıca, Türkiye'de **illere göre haftalık vaka sayıları**nı gösteren bir veri seti daha mevcuttur. İlerleyen zamanlarda bununla ilgili analizler de yapılacaktır.
+Ayrıca, Türkiye'de **illere göre haftalık vaka sayıları**nı gösteren veri seti grubu daha mevcuttur. Bunların yanında **haftalık tablo** verileri de paylaşılmaktadır. İlerleyen zamanlarda bununla ilgili analizler de yapılacaktır.
 
 **ÖNEMLİ:** İlgili IPython sayfası yüklenirken hata ile karşılaşıyorsanız, bir ya da birkaç kere **Reload** seçeneğine basmanız gerekebilir.
 

@@ -8,11 +8,11 @@ Türkiye'de Koronavirüs'ün (Covid-19) ilk kez **11 Mart 2020** tarihinde gör�
 
 Ayda bir defa bazen de iki defa olmak üzere yeni veri analizlerinin uygulanması amaçlanmaktadır.
 
-Burada yapılan analizler hiçbir şekilde bir kuruma bağlı olmayıp, tamamen bireysel ve bağımsız şekilde gerçekleşmektedir.
+_Burada yapılan analizler hiçbir şekilde bir kuruma bağlı olmayıp, tamamen bireysel ve bağımsız şekilde gerçekleşmektedir._
 
-Son güncelleme: **24 Aralık 2021** **/** Sayı: **43**
+Son güncelleme: **14 Ocak 2022** **/** Sayı: **44**
 
-**Tüm analizler IPython üzerinde yapılmıştır.**
+**Tüm analizler IPython (Jupyter Notebook) üzerinde yapılmıştır.**
 
 ## Kaynak
 

@@ -56,10 +56,12 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 
 Bunun yerine **18 Yaş Üstü Nüfus için 1. ve 2. Doz Türkiye Ortalaması (%)** ve **1., 2. ve 3. Doz Uygulanan** sayılarıyla ilgili analizler gösterilmektedir.
 
-**Son bir yıl içinde** yapılan analizler burada gösterilmektedir. Üzerinden bir yıldan fazla süre geçen analizler ise zamanla silinmektedir.
+**Son bir yıl içinde yapılan analizler burada gösterilmektedir. Üzerinden bir yıldan fazla süre geçen analizler ise zamanla silinmektedir.**
 
-Ayrıca, Türkiye'de **illere göre haftalık vaka sayıları**nı gösteren veri seti grubu daha mevcuttur. Bunların yanında **haftalık tablo** verileri de paylaşılmaktadır. İlerleyen zamanlarda bununla ilgili analizler de yapılacaktır.
+## Diğer Analizler
 
-**ÖNEMLİ:** İlgili IPython sayfası yüklenirken hata ile karşılaşıyorsanız, bir ya da birkaç kere **Reload** seçeneğine basmanız gerekebilir.
+Ayrıca, **haftalık tablolar** üzerinde uygulanmış veri analizi de mevcuttur. Yukarıdan ilgili dosya tıklanarak incelenebilir.
+
+Bunların yanında, Türkiye'de **illere göre haftalık vaka sayıları**nı gösteren veri seti grubu daha mevcuttur; ilerleyen zamanlarda bununla ilgili analizler de yapılacaktır.
 
 ## KORONAVİRÜSÜ TAMAMEN YENDİĞİMİZ GÜNLERDE BULUŞMAK DİLEĞİYLE...

@@ -6,11 +6,11 @@
 
 Türkiye'de Koronavirüs'ün (Covid-19) ilk kez **11 Mart 2020** tarihinde görülmesinden itibaren sayıların düzenli olarak tutulduğu veri setleri ve üzerinde veri analizlerini içeren repo'dur.
 
-Ayda bir defa bazen de iki defa olmak üzere yeni veri analizlerinin uygulanması amaçlanmaktadır.
+Ayda bir defa bazen de iki defa yeni veri analizlerini uygulamayı amaçlamaktayım.
 
-_Burada yapılan analizler hiçbir şekilde bir kuruma bağlı olmayıp, tamamen bireysel ve bağımsız şekilde gerçekleşmektedir._
+_Burada yapılan analizler hiçbir şekilde bir kuruma bağlı olmayıp, tamamen bireysel ve bağımsız şekilde gerçekleştirmekteyim._
 
-Son güncelleme: **14 Ocak 2022** **/** Sayı: **44**
+SON GÜNCELLEME: **14 Ocak 2022** **/** Sayı: **44**
 
 **Tüm analizler IPython (Jupyter Notebook) üzerinde yapılmıştır.**
 
@@ -62,6 +62,14 @@ Bunun yerine **18 Yaş Üstü Nüfus için 1. ve 2. Doz Türkiye Ortalaması (%)
 
 Ayrıca, **haftalık tablolar** üzerinde uygulanmış veri analizi de mevcuttur. Yukarıdan ilgili dosya tıklanarak incelenebilir.
 
-Bunların yanında, Türkiye'de **illere göre haftalık vaka sayıları**nı gösteren veri seti grubu daha mevcuttur; ilerleyen zamanlarda bununla ilgili analizler de yapılacaktır.
+Bu analizde bulunanlar:
+* Test Sayıları, Vaka Sayıları, Hasta Sayıları, Vefat Sayıları, İyileşen Sayıları, Ortalama Ağır Hasta Sayıları
+* Toplam Vaka Sayıları, Toplam Vefat Sayıları, Hastalarda Zatürre Oranı, Yatak Doluluk Oranı, Erişkin Yoğun Bakım Doluluk Oranı, Ventilatör Doluluk Oranı
+
+Bunların yanında, Türkiye'de **illere göre haftalık vaka sayıları**nı gösteren veri seti grubu daha mevcuttur; bununla ilgili analizi içeren dosya yine yukarıdan tıklanıp bakılabilir.
+
+Bu analizde bulunanlar:
+* Tüm İller İçin Haftalık Vaka Sayısı Grafikleri
+* Tüm Büyükşehirler İçin Haftalık Vaka Sayısı Sıralamaları (En Düşük & En Yüksek)
 
 ## KORONAVİRÜSÜ TAMAMEN YENDİĞİMİZ GÜNLERDE BULUŞMAK DİLEĞİYLE...

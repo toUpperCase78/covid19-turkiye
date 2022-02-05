@@ -10,7 +10,7 @@ Ayda bir defa bazen de iki defa yeni veri analizlerini uygulamayı amaçlamaktay
 
 _Burada yapılan analizler hiçbir şekilde bir kuruma bağlı olmayıp, tamamen bireysel ve bağımsız şekilde gerçekleştirmekteyim._
 
-SON GÜNCELLEME: **14 Ocak 2022** **/** Sayı: **44**
+SON GÜNCELLEME: **4 Şubat 2022** **/** Sayı: **45**
 
 **Tüm analizler IPython (Jupyter Notebook) üzerinde yapılmıştır.**
 

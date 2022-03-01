@@ -10,7 +10,7 @@ Ayda bir defa bazen de iki defa yeni veri analizlerini uygulamayı amaçlamaktay
 
 _Burada yapılan analizler hiçbir şekilde bir kuruma bağlı olmayıp, tamamen bireysel ve bağımsız şekilde gerçekleştirmekteyim._
 
-SON GÜNCELLEME: **4 Şubat 2022** **/** Sayı: **45**
+SON GÜNCELLEME: **28 Şubat 2022** **/** Sayı: **46**
 
 **Tüm analizler IPython (Jupyter Notebook) üzerinde yapılmıştır.**
 
@@ -45,8 +45,8 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 * Son 20 Günün İyileşen Sayısı Değişim Grafiği 
 * Son 20 Gün İçindeki Günlük İyileşen Sayısının Vaka Sayısına Oranı
 * Son 20 Günün Toplam Aktif Vaka Sayıları
-* Son 180 Güne Dair Günlük Test, Vaka, Vefat & İyileşen Sayılarının İstatistikleri ve Dağılımları
-* Son 180 Güne Dair Vaka, Vefat & İyileşen Sayısı Değişimi Dair İstatistikleri ve Dağılımları
+* Son 240 Güne Dair Günlük Test, Vaka, Vefat & İyileşen Sayılarının İstatistikleri ve Dağılımları
+* Son 240 Güne Dair Vaka, Vefat & İyileşen Sayısı Değişimi Dair İstatistikleri ve Dağılımları
 * 25 Kasım 2020 Sonrası Günlük Vaka, Vefat ve İyileşen Sayılarının Birbirleriyle İlişkileri ve Katsayıları
 * Test, Vaka, Vefat ve İyileşen Artışlarının Aylık Toplamları
 * Aynı Sütunların ve Değişimlerinin Aylık Ortalamaları
@@ -55,8 +55,6 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 4 Temmuz 2021'den itibaren gösterilen yeni Günlük Covid-19 Tablosu ile artık **Hasta Sayısı**, **Zatürre Oranı** ve **Ağır Hasta** verileri paylaşılmadığından birtakım analizler en son paylaşılan analizlerden sonra yer almamaktadır!
 
 Bunun yerine **18 Yaş Üstü Nüfus için 1. ve 2. Doz Türkiye Ortalaması (%)** ve **1., 2. ve 3. Doz Uygulanan** sayılarıyla ilgili analizler gösterilmektedir.
-
-**Son bir yıl içinde yapılan analizler burada gösterilmektedir. Üzerinden bir yıldan fazla süre geçen analizler ise zamanla silinmektedir.**
 
 ## Diğer Analizler
 

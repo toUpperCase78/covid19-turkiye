@@ -6,11 +6,9 @@
 
 Türkiye'de Koronavirüs'ün (Covid-19) ilk kez **11 Mart 2020** tarihinde görülmesinden itibaren sayıların düzenli olarak tutulduğu veri setleri ve üzerinde veri analizlerini içeren repo'dur.
 
-Ayda bir defa bazen de iki defa yeni veri analizlerini uygulamayı amaçlamaktayım.
-
 _Burada yapılan analizler hiçbir şekilde bir kuruma bağlı olmayıp, tamamen bireysel ve bağımsız şekilde gerçekleştirmekteyim._
 
-SON GÜNCELLEME: **28 Şubat 2022** **/** Sayı: **46**
+SON GÜNCELLEME: **20 Mayıs 2022** **/** Sayı: **47**
 
 **Tüm analizler IPython (Jupyter Notebook) üzerinde yapılmıştır.**
 
@@ -29,7 +27,7 @@ Analiz içerisinde oluşturulan ilave sütunlar: `Vefat Artış`, `İyileşen Ar
 ## Analizler
 
 Son yayımlanan analizde şunlar bulunmaktadır:
-* Son 20 Güne Dair Sayısal Bilgiler
+* Son 30 Güne Dair Sayısal Bilgiler
 * Covid-19 Salgınının Başında Beri Türkiye'nin Durumu
 * Covid-19 - Türkiye'de Aşılamanın Durumu
 * Covid-19 - Türkiye'de Son 20 Güne Ait Aşılama Grafiği
@@ -44,9 +42,8 @@ Son yayımlanan analizde şunlar bulunmaktadır:
 * Son 20 Güne Dair Toplam İyileşen Sayıları
 * Son 20 Günün İyileşen Sayısı Değişim Grafiği 
 * Son 20 Gün İçindeki Günlük İyileşen Sayısının Vaka Sayısına Oranı
-* Son 20 Günün Toplam Aktif Vaka Sayıları
-* Son 240 Güne Dair Günlük Test, Vaka, Vefat & İyileşen Sayılarının İstatistikleri ve Dağılımları
-* Son 240 Güne Dair Vaka, Vefat & İyileşen Sayısı Değişimi Dair İstatistikleri ve Dağılımları
+* Son 300 Güne Dair Günlük Test, Vaka, Vefat & İyileşen Sayılarının İstatistikleri ve Dağılımları
+* Son 300 Güne Dair Vaka, Vefat & İyileşen Sayısı Değişimi Dair İstatistikleri ve Dağılımları
 * 25 Kasım 2020 Sonrası Günlük Vaka, Vefat ve İyileşen Sayılarının Birbirleriyle İlişkileri ve Katsayıları
 * Test, Vaka, Vefat ve İyileşen Artışlarının Aylık Toplamları
 * Aynı Sütunların ve Değişimlerinin Aylık Ortalamaları

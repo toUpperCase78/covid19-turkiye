@@ -8,9 +8,13 @@ Türkiye'de Koronavirüs'ün (Covid-19) ilk kez **11 Mart 2020** tarihinde gör�
 
 _Burada yapılan analizler hiçbir şekilde bir kuruma bağlı olmayıp, tamamen bireysel ve bağımsız şekilde gerçekleştirmekteyim._
 
-SON GÜNCELLEME: **20 Mayıs 2022** **/** Sayı: **47**
+SON GÜNCELLEME: **31 Mayıs 2022** **/** Sayı: **48**
 
 **Tüm analizler IPython (Jupyter Notebook) üzerinde yapılmıştır.**
+
+## Son Durum
+
+31 Mayıs 2022 tarihinden sonra günlük veriler paylaşılmadığından projede artık yeni analizler yapılmamaktadır!
 
 ## Kaynak
 
